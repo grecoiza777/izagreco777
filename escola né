@@ -1,0 +1,9 @@
+echo "# izagreco777" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/grecoiza777/izagreco777.git
+ git push -u origin mail 
+ você pode me conhecer como iza
+ sou da turma 2 do 1º ano 
